@@ -1,8 +1,13 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+/******************************************************
+‘***  Project 1 - Push Pop Stack
+‘***  Gabriel Brown
+‘******************************************************
+‘*** To Demonstrate Error handling / Classes / Math
+‘***
+‘******************************************************
+‘*** 09/13/2017
+‘******************************************************
+‘*****************************************************/
 
 /**
  *
