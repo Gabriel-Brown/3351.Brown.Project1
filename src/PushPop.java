@@ -116,6 +116,7 @@ public class PushPop extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+        jLabel3.setText("");
         try
         {
             int number = Integer.parseInt(jTextField1.getText());
@@ -130,12 +131,13 @@ public class PushPop extends javax.swing.JFrame {
             jTextField1.setText("");
         }
         jLabel1.setText(LL.printLList());
-        
+        jTextField1.requestFocus();
                 
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
+        
         IntLL temp = LL.pop();
         if (temp !=null)
         {
