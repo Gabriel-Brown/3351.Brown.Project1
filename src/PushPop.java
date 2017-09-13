@@ -136,7 +136,7 @@ public class PushPop extends javax.swing.JFrame {
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
-        IntLL temp = LL.pop(0);
+        IntLL temp = LL.pop();
         if (temp !=null)
         {
             jLabel3.setText("you poped : " + temp.value);
