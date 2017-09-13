@@ -2,7 +2,7 @@
 ‘***  Project 1 - Push Pop Stack
 ‘***  Gabriel Brown
 ‘******************************************************
-‘*** To Demonstrate Error handling / Classes / Math
+‘*** To Demonstrate Linked List Stack
 ‘***
 ‘******************************************************
 ‘*** 09/13/2017
